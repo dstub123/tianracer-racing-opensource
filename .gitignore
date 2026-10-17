@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.eggs/
+*.egg-info/
+dist/
+build/
+develop-eggs/
+downloads/
+installdeps.sh.bak
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg
+MANIFEST
+
+# ROS / catkin
+build/
+devel/
+install/
+logs/
+catkin_ws/
+*.bag
+*.active
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Gazebo / world caches
+.gazebo/
+*.world~

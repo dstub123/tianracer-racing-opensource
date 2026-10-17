@@ -1,6 +1,6 @@
 # Tianracer Autonomous Racing (纯激光与航点混合自动驾驶竞速算法)
 
-> 🏎️ **Current Best Lap**: 14.4s (Stable: 14.52s) / **当前稳定圈速**: 14.29s/圈，0 碰撞
+> 🏎️ **Current Best Lap**: 14.4s (Stable: 14.52s) / **当前稳定圈速**: 14.52s/圈，0 碰撞
 
 ## 📖 Introduction (项目简介)
 This project is an open-source implementation for the Tianracer autonomous racing platform, utilizing a hybrid approach of Follow-the-Gap (Lidar) and Waypoint tracking (Pure Pursuit). 
